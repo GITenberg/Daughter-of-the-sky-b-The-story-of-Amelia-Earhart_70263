@@ -1,0 +1,27 @@
+_repo: Daughter-of-the-sky-b-The-story-of-Amelia-Earhart_70263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Briand, Paul L.
+    gutenberg_agent_id: '55674'
+    url: http://www.gutenberg.org/2009/agents/55674
+description: ''
+gutenberg_issued: '2023-03-11'
+identifiers:
+  gutenberg: '70263'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015020704071
+pgterms:marc905: 20200326054024briand
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Tim Lindell, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bDuell, Sloan and Pearce, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Daughter of the sky : $b The story of Amelia Earhart'
+url: http://www.gutenberg.org/ebooks/70263
