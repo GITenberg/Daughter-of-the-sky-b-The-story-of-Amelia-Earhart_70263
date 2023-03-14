@@ -1,11 +1,16 @@
 _repo: Daughter-of-the-sky-b-The-story-of-Amelia-Earhart_70263
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70263-h/images/cover.jpg
 creator:
   author:
     agent_name: Briand, Paul L.
     gutenberg_agent_id: '55674'
     url: http://www.gutenberg.org/2009/agents/55674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70263#Daughter-of-the-sky-b-The-story-of-Amelia-Earhart
 gutenberg_issued: '2023-03-11'
 identifiers:
   gutenberg: '70263'
